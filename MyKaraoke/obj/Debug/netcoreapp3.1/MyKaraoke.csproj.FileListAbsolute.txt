@@ -1,0 +1,16 @@
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\bin\Debug\netcoreapp3.1\MyKaraoke.exe
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\bin\Debug\netcoreapp3.1\MyKaraoke.deps.json
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\bin\Debug\netcoreapp3.1\MyKaraoke.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\bin\Debug\netcoreapp3.1\MyKaraoke.runtimeconfig.dev.json
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\bin\Debug\netcoreapp3.1\MyKaraoke.dll
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\bin\Debug\netcoreapp3.1\MyKaraoke.pdb
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.Form1.resources
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.dll
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.pdb
+C:\Users\lab_services_student\source\repos\MyKaraoke\MyKaraoke\obj\Debug\netcoreapp3.1\MyKaraoke.genruntimeconfig.cache

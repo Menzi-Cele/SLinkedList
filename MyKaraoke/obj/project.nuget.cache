@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6PfxC7QgiPfH12ii6u1GvuNeBH5tmpXLn8ZAvvxVN5OBaSB3jzdVllRYWU8yZ/I4AZSdqpzv2Zf5mDS6/+b9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\MyKaraoke\\MyKaraoke\\MyKaraoke.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
